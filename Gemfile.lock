@@ -1,0 +1,18 @@
+PATH
+  remote: .
+  specs:
+    foreman-export-upstart_user (0.0.1)
+      foreman
+
+GEM
+  remote: http://rubygems.org/
+  specs:
+    foreman (0.59.0)
+      thor (>= 0.13.6)
+    thor (0.16.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  foreman-export-upstart_user!
