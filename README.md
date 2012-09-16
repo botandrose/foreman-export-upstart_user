@@ -4,4 +4,4 @@
 gem "foreman-export-upstart_user"
 ```
 
-then `bundle exec foreman export upstart_user
+then `bundle exec foreman export upstart-user
